@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.googlecode.libphonenumber</groupId>
+  <artifactId>libphonenumber-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>8.12.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200422082509</lastUpdated>
+  </versioning>
+</metadata>
