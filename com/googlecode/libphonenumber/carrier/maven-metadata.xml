@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.googlecode.libphonenumber</groupId>
+  <artifactId>carrier</artifactId>
+  <versioning>
+    <versions>
+      <version>1.128-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200422082656</lastUpdated>
+  </versioning>
+</metadata>
