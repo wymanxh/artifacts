@@ -3,10 +3,9 @@
   <groupId>com.googlecode.libphonenumber</groupId>
   <artifactId>libphonenumber</artifactId>
   <versioning>
-    <release>8.12.2</release>
     <versions>
-      <version>8.12.2</version>
+      <version>8.12.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200422075428</lastUpdated>
+    <lastUpdated>20200422082020</lastUpdated>
   </versioning>
 </metadata>
