@@ -3,10 +3,10 @@
   <groupId>com.radica.bounce</groupId>
   <artifactId>pmta-bounce-classifier</artifactId>
   <versioning>
-    <release>0.0.1</release>
+    <release>0.0.2</release>
     <versions>
-      <version>0.0.1</version>
+      <version>0.0.2</version>
     </versions>
-    <lastUpdated>20210223041847</lastUpdated>
+    <lastUpdated>20210223073012</lastUpdated>
   </versioning>
 </metadata>
