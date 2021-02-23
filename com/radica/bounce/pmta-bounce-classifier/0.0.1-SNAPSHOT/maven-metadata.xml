@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.radica.bounce</groupId>
+  <artifactId>pmta-bounce-classifier</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20210223.035300</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20210223035300</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20210223.035300-3</value>
+        <updated>20210223035300</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20210223.035300-3</value>
+        <updated>20210223035300</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
